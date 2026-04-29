@@ -3,7 +3,7 @@
 
 You are building:
 
-A measurement system for stochastic time-series, where market data is treated as a evolving process, and structure is inferred from how statistical properties change over time, not from fixed rules or predictive signals.
+A measurement system for stochastic time-series, where market data is treated as an evolving process, and structure is inferred from how statistical properties change over time, not from fixed rules or predictive signals.
 
 More simply:
 
