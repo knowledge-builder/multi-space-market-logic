@@ -10,10 +10,10 @@ Avoiding False Correlation: Position Does Not Imply Behavior
   the system allows all combinations
 
 • distance — scale — interpretation
-  large — large — fast expansion / breakout
-  large — small — slow drift / trend plateau
-  small — large — violent churn near equilibrium
-  small — small — stable equilibrium
+  large    — large — fast expansion / breakout
+  large    — small — slow drift / trend plateau
+  small    — large — violent churn near equilibrium
+  small    — small — stable equilibrium
 
 • So:
   distance does not constrain scale
